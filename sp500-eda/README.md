@@ -95,7 +95,7 @@ The analysis covers a particularly interesting period that includes:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/sp500-eda.git
+git clone https://github.com/AlejandroGutierrezViscay27/Report-sp500.git
 cd sp500-eda
 
 # 2. Install dependencies
